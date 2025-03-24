@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "724398737224",
+    "firebase_url": "https://cafe-shop-980c9-default-rtdb.firebaseio.com",
+    "project_id": "cafe-shop-980c9",
+    "storage_bucket": "cafe-shop-980c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724398737224:android:0cd65bbb71d830b78e957d",
+        "android_client_info": {
+          "package_name": "com.pro.shopfee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD89acF1M3WqGMwvmujt-TdjVYHOvrx8Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
